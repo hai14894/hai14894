@@ -2,10 +2,10 @@
 
 ### I'm a full stack developer, generalist, environmentalist, Tesla enthusiast, food lover and comedy fan.
 
-- 🚀 Currently doing my internship at @Faethm_AI. 
-- 💻 Currently focusing on React, Redux and GraphQL.
+- 🚀 Currently being Integration Engineer @PayPal. 
+- 💻 Focusing on Braintree implemention.
 - 📕 Favourite book at the moment: Thinking fast and slow.
-- ⚡  Fun fact: I de-stress by cooking and having good food.
+
 
 ### Connect with me:
 [<img align="left" alt="Website icon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hai14894.me/)
