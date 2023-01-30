@@ -1,9 +1,5 @@
 ##  Hello World , I'm Hai 👋🏻
 
-### I'm a full stack developer, generalist, environmentalist, Tesla enthusiast, food lover and comedy fan.
-
-- 🚀 Currently Frontend Engineer @Valiant Finance
-
 ### Connect with me:
 [<img align="left" alt="Website icon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hai14894.me/)
 [<img align="left" alt="Twitter Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/hai14894)
