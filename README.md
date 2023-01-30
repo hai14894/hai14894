@@ -2,10 +2,7 @@
 
 ### I'm a full stack developer, generalist, environmentalist, Tesla enthusiast, food lover and comedy fan.
 
-- 🚀 Currently being Integration Engineer @PayPal. 
-- 💻 Focusing on Braintree implemention.
-- 📕 Favourite book at the moment: Thinking fast and slow.
-
+- 🚀 Currently Frontend Engineer @Valiant Finance
 
 ### Connect with me:
 [<img align="left" alt="Website icon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hai14894.me/)
